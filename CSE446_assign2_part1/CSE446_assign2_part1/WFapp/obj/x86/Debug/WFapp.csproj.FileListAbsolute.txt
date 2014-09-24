@@ -1,0 +1,178 @@
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\bin\Debug\WorkflowConsoleApplication1.exe.config
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\bin\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\bin\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\Workflow1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WFapp.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WFapp.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\InProcessTempFiles\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.exe.config
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\Workflow1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WFapp.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WFapp.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_checkNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.Activities_secretNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_SecretNum_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.Activities_SecretNum_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_CompiledExpressionRoot.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.xaml
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.exe.config
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.exe
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\bin\Debug\WorkflowConsoleApplication1.pdb
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\Workflow1.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WFapp.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WFapp.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_CompiledExpressionRoot.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.checkNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ASURepo.IService.secretNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.Mysec.IService.SecretNum.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\WorkflowConsoleApplication1.ServiceReference1.IService.SecretNum.g.xaml
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\InProcessTempFiles\_WorkflowConsoleApplication1.g.cs
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFapp\obj\x86\Debug\WFapp.csprojResolveAssemblyReference.cache

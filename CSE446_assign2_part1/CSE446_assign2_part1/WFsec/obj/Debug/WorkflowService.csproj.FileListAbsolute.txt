@@ -1,0 +1,10 @@
+F:\VS Documents\Project\A2Part1\WorkflowService\bin\WorkflowService.dll
+F:\VS Documents\Project\A2Part1\WorkflowService\bin\WorkflowService.pdb
+F:\VS Documents\Project\A2Part1\WorkflowService\obj\Debug\WorkflowService.dll
+F:\VS Documents\Project\A2Part1\WorkflowService\obj\Debug\WorkflowService.pdb
+F:\VS Documents\Project\A2Part1\WorkflowService\obj\Debug\WorkflowService.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\bin\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\bin\WorkflowService.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\obj\Debug\WorkflowService.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\obj\Debug\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\obj\Debug\WorkflowService.pdb

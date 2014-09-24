@@ -1,0 +1,14 @@
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\bin\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\bin\WorkflowService.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\obj\Debug\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowService\obj\Debug\WorkflowService.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFsec\bin\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFsec\bin\WorkflowService.pdb
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFsec\obj\Debug\WFsec.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFsec\obj\Debug\WorkflowService.dll
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\CSE446_assign2_part1\WFsec\obj\Debug\WorkflowService.pdb
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFsec\bin\WorkflowService.dll
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFsec\bin\WorkflowService.pdb
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFsec\obj\Debug\WFsec.csprojResolveAssemblyReference.cache
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFsec\obj\Debug\WorkflowService.dll
+C:\Users\wxx\Desktop\STUDY\CSE446\CSE446_assign2_part1\CSE446_assign2_part1\WFsec\obj\Debug\WorkflowService.pdb

@@ -1,0 +1,8 @@
+obj\x86\Debug\Workflow1.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.xaml
+obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.txt

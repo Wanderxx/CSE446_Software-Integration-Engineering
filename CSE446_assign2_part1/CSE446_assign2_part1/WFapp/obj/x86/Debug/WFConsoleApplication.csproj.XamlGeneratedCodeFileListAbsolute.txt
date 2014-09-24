@@ -1,0 +1,10 @@
+obj\x86\Debug\_WorkflowConsoleApplication1.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.secretNumber.g.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.IService.checkNumber.g.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mysec.IService.Secret.g.cs
+obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_BeforeInitializeComponentHelper.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_secretNumber_BeforeInitializeComponentHelper.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mycheck.Activities_checkNumber_BeforeInitializeComponentHelper.cs
+obj\x86\Debug\WorkflowConsoleApplication1.Mysec.Activities_Secret_BeforeInitializeComponentHelper.cs
+C:\Users\wxx\Documents\Tencent Files\199101046\FileRecv\A2Part1\A2Part1\WorkflowConsoleApplication1\obj\x86\Debug\WorkflowConsoleApplication1_Workflow1_CompiledExpressionRoot.cs

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<w:Workflow1 xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:local="clr-namespace:WorkflowConsoleApplication1.Mysec.Activities;assembly=WorkflowConsoleApplication1" xmlns:local1="clr-namespace:WorkflowConsoleApplication1.Mycheck.Activities;assembly=WorkflowConsoleApplication1" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/servicemodel" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:sc="clr-namespace:System.ComponentModel;assembly=System" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:w="clr-namespace:WorkflowConsoleApplication1;assembly=WorkflowConsoleApplication1" xmlns:wm="clr-namespace:WorkflowConsoleApplication1.Mysec;assembly=WorkflowConsoleApplication1" xmlns:wm1="clr-namespace:WorkflowConsoleApplication1.Mycheck;assembly=WorkflowConsoleApplication1" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Text</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.CSharp</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>WorkflowConsoleApplication1</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <w:Workflow1.Implementation>
+    <Sequence>
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:Int32" Name="lower" />
+        <Variable x:TypeArguments="x:Int32" Name="upper" />
+        <Variable x:TypeArguments="x:Int32" Name="sec" />
+        <Variable x:TypeArguments="x:Int32" Name="userNum" />
+        <Variable x:TypeArguments="x:String" Default="big" Name="result" />
+      </Sequence.Variables>
+      <WriteLine Text="Welcome to Guess Num!" />
+      <WriteLine Text="Please input the lower Boudn:" />
+      <Assign>
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:Int32">
+            <mca:CSharpReference x:TypeArguments="x:Int32">lower</mca:CSharpReference>
+          </OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:Int32">
+            <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine())</mca:CSharpValue>
+          </InArgument>
+        </Assign.Value>
+      </Assign>
+      <WriteLine Text="Nice! please input the upper bound!" />
+      <Assign>
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:Int32">
+            <mca:CSharpReference x:TypeArguments="x:Int32">upper</mca:CSharpReference>
+          </OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:Int32">
+            <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine())</mca:CSharpValue>
+          </InArgument>
+        </Assign.Value>
+      </Assign>
+      <local:Secret mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces">
+        <local:Secret.low>
+          <InArgument x:TypeArguments="x:Int32">
+            <mca:CSharpValue x:TypeArguments="x:Int32">lower</mca:CSharpValue>
+          </InArgument>
+        </local:Secret.low>
+        <local:Secret.sec>
+          <OutArgument x:TypeArguments="x:Int32">
+            <mca:CSharpReference x:TypeArguments="x:Int32">sec</mca:CSharpReference>
+          </OutArgument>
+        </local:Secret.sec>
+        <local:Secret.up>
+          <InArgument x:TypeArguments="x:Int32">
+            <mca:CSharpValue x:TypeArguments="x:Int32">upper</mca:CSharpValue>
+          </InArgument>
+        </local:Secret.up>
+      </local:Secret>
+      <WriteLine Text="The secret number has been generated" />
+      <While>
+        <While.Condition>
+          <mca:CSharpValue x:TypeArguments="x:Boolean">!result.Contains("correct")</mca:CSharpValue>
+        </While.Condition>
+        <Sequence>
+          <WriteLine Text="Please guess the num:" />
+          <Assign>
+            <Assign.To>
+              <OutArgument x:TypeArguments="x:Int32">
+                <mca:CSharpReference x:TypeArguments="x:Int32">userNum</mca:CSharpReference>
+              </OutArgument>
+            </Assign.To>
+            <Assign.Value>
+              <InArgument x:TypeArguments="x:Int32">
+                <mca:CSharpValue x:TypeArguments="x:Int32">Convert.ToInt32(Console.ReadLine())</mca:CSharpValue>
+              </InArgument>
+            </Assign.Value>
+          </Assign>
+          <local1:checkNumber mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces">
+            <local1:checkNumber.checkNumberResult>
+              <OutArgument x:TypeArguments="x:String">
+                <mca:CSharpReference x:TypeArguments="x:String">result</mca:CSharpReference>
+              </OutArgument>
+            </local1:checkNumber.checkNumberResult>
+            <local1:checkNumber.secretNum>
+              <InArgument x:TypeArguments="x:Int32">
+                <mca:CSharpValue x:TypeArguments="x:Int32">sec</mca:CSharpValue>
+              </InArgument>
+            </local1:checkNumber.secretNum>
+            <local1:checkNumber.userNum>
+              <InArgument x:TypeArguments="x:Int32">
+                <mca:CSharpValue x:TypeArguments="x:Int32">userNum</mca:CSharpValue>
+              </InArgument>
+            </local1:checkNumber.userNum>
+          </local1:checkNumber>
+        </Sequence>
+      </While>
+      <WriteLine Text="Congratulations!" />
+      <Delay Duration="00:00:05" />
+      <sads:DebugSymbol.Symbol>9xA1JuVPL9nELlo8jm/hPcAmYEM6XFVzZXJzXHd4eFxEZXNrdG9wXFNUVURZXENTRTQ0NlxDU0U0NDZfYXNzaWduMl9wYXJ0MVxDU0U0NDZfYXNzaWduMl9wYXJ0MVxXRmFwcFxXb3JrZmxvdzEueGFtbCQsA4kBDgIBATI0MjkCAQI0BTRdAgFkNQU1ZQIBYjYFQQ4CAVVCBUJrAgFTQwVODgIBRk8FXxQCATNgBWBsAgExYQWFAQ0CAQeGAQWGAVgCAQWHAQWHAUwCAQM0QzRaAgFlNUM1YgIBYz4LPmsCAVw5CzlVAgFWQkNCaAIBVEsLS2sCAU1GC0ZVAgFHVwtXUwIBQFILUk0CATpcC1xNAgE0YENgaQIBMmUHhAESAgEOYwljYwIBCIYBQ4YBVQIBBocBFYcBHwIBBGYJZmECAS9nCXISAgEicwmDAR4CAQ9mR2ZeAgEwbw9vbwIBKWoPalsCASN2D3ZbAgEcew97TwIBFoABD4ABUwIBEA==</sads:DebugSymbol.Symbol>
+    </Sequence>
+  </w:Workflow1.Implementation>
+</w:Workflow1>

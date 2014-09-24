@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="End&#xD;&#xA;">
+    <Position X="5.677" Y="3.823" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="WorkflowConsoleApplication1.Program">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SecretRequest" />
+      <Property Name="checkNumberRequest" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mycheck.secretNumberRequest" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mycheck\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mycheck.secretNumberResponse" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mycheck\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mycheck.checkNumberRequest" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mycheck\Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mycheck.checkNumberResponse" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mycheck\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mysec.SecretRequest" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Service References\Mysec\Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WorkflowConsoleApplication1.Mysec.SecretResponse" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mysec\Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="checkNumberRequest" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="WorkflowConsoleApplication1.Mycheck.IService">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAQAAAAYAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\Mycheck\Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="checkNumberResponse" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="WorkflowConsoleApplication1.Mysec.IService">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Service References\Mysec\Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SecretResponse" />
+    </ShowAsAssociation>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
